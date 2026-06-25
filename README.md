@@ -1,2 +1,12 @@
 # fist-strike-vr-policies
-Official privacy policy repository for Fist Strike VR. This repository hosts privacy policy, terms, and support information required for app publication and user transparency.
+
+Official policy and support repository for **Fist Strike VR**.
+
+This repository hosts public documents used for app publication and user transparency:
+
+- [Privacy Policy](docs/privacy-policy.md)
+- [隐私政策（中文）](docs/privacy-policy-zh.md)
+- [Support / Contact](docs/support.md)
+- [用户支持 / 联系方式（中文）](docs/support-zh.md)
+
+Contact: wazi1010+fsvr@gmail.com
