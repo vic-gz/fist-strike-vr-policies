@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** June 26, 2026
+**Last Updated:** June 30, 2026
 
 This Privacy Policy explains how **Fist Strike**, the team responsible for publishing and maintaining **Fist Strike VR** ("we", "us", or "our"), handles information in connection with **Fist Strike VR** (the "App"), a virtual reality boxing and fitness application for Meta Quest devices.
 
@@ -21,7 +21,7 @@ The App does not upload personally identifiable information to our servers. We d
 The App may store the following data locally on the user's device:
 
 - App settings, such as language, audio volume, display preferences, comfort settings, and other in-app preferences;
-- Training-related settings, such as target height, gameplay preferences, calibration values, and tutorial completion status;
+- Training-related settings, such as target height, body-related settings used for fitness estimates, gameplay preferences, calibration values, and tutorial completion status;
 - Local training statistics, such as workout sessions, scores, estimated calories, training duration, combo/progress information, and achievement or course progress;
 - Local cache data required for the App to function properly;
 - Locally selected content metadata or cache, if you use App features that let you choose local media or customize the experience.
@@ -32,7 +32,7 @@ This data is stored only on the current device. It is not uploaded to our server
 
 The App currently uses device-level local data storage. This means that training statistics, settings, and progress are tied to the current device storage and may be visible to other people who use the same Meta Quest device or device profile.
 
-The App does not currently provide separate Meta user-level profiles or cloud-synced user data.
+The App does not currently provide separate Meta user-level profiles, cloud-synced user data, or account-based data separation.
 
 ## 4. VR Device Data and Tracking
 
@@ -42,6 +42,10 @@ This real-time tracking data is used on the device for gameplay and is not uploa
 
 The App does not use the microphone, camera, precise location, contacts, or advertising identifiers for our own data collection.
 
+The App may use Meta Quest platform services to verify app entitlement and ownership. This verification is handled through Meta platform services and is subject to Meta's own terms and privacy policies. We do not use entitlement checks to upload training records or fitness data to our servers.
+
+Meta Quest platform services, device-level account features, store services, and operating-system features are governed by Meta's own terms and privacy policies.
+
 ## 5. How We Use Local Data
 
 Local data is used only to:
@@ -50,6 +54,7 @@ Local data is used only to:
 - Restore local training progress;
 - Display local training statistics;
 - Provide calibration, tutorial, course, and gameplay features;
+- Provide local fitness-related estimates, such as estimated calories;
 - Improve the in-app experience on the current device;
 - Keep the App functioning correctly.
 
