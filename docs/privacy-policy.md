@@ -42,7 +42,7 @@ This real-time tracking data is used on the device for gameplay and is not uploa
 
 The App does not use the microphone, camera, precise location, contacts, or advertising identifiers for our own data collection.
 
-The App may use Meta Quest platform services to verify app entitlement and ownership. This verification is handled through Meta platform services and is subject to Meta's own terms and privacy policies. We do not use entitlement checks to upload training records or fitness data to our servers.
+The App may use Meta Quest platform services to verify app entitlement and ownership during startup. If app entitlement or ownership cannot be verified, the App may show an error message and close or restrict access to the App. This verification is handled through Meta platform services and is subject to Meta's own terms and privacy policies. We do not use entitlement checks to upload training records or fitness data to our servers.
 
 Meta Quest platform services, device-level account features, store services, and operating-system features are governed by Meta's own terms and privacy policies.
 
