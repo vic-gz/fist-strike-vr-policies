@@ -2,6 +2,8 @@
 
 Official policy and support repository for **Fist Strike VR**.
 
+Public website: https://vic-gz.github.io/fist-strike-vr-policies/
+
 This repository hosts public documents used for app publication and user transparency:
 
 - [Privacy Policy](docs/privacy-policy.md)
